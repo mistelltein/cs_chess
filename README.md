@@ -24,3 +24,7 @@ Once the application is running, you can start a new game, make moves using the 
 
 
 Enjoy playing chess with the Chess Game project!
+
+
+![Uploading изображение.png…]()
+
